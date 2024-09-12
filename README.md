@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on interactions between vegetation and clouds.
+- 😄 Pronouns: she/her
 <!--
 **NellyPomnitz/NellyPomnitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
